@@ -2,5 +2,4 @@
 
 ## About me
 
-
-## Projects
+ Projects
