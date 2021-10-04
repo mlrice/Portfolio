@@ -1,6 +1,6 @@
 ---
 #Hello World
-#test
+test
 layout: home
 title: Home
 landing-title: 'Michelle Rice'
