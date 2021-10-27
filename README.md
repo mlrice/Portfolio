@@ -1,5 +1,5 @@
 # Michelle Rice
-![](images/bio-photo.jpg)
+<img src=(images/bio-photo.jpg) width="100" height="100">
 ## About me
 
 
