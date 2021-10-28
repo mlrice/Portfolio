@@ -20,5 +20,5 @@ I am an experienced IT professional transitioning to a career in Data Science.  
 
 
 ## Contact Info
-[LinkedIn](https://www.linkedin.com/in/ricemichelle/)
+[LinkedIn](https://www.linkedin.com/in/ricemichelle/)\
 <mrice915@hotmail.com>
