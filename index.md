@@ -1,7 +1,4 @@
 
----
-layout: default
----
 
  # Michelle Rice
 
@@ -22,7 +19,7 @@ layout: default
 
 
 ## Contact Info
-![image](https://user-images.githubusercontent.com/36652677/139196091-fd309269-c5b3-4a74-a571-eaef7497ee9e.png)
+
 
 
   
