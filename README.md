@@ -1,7 +1,7 @@
 # Michelle Rice
-![bio-photo](assets/images/bio-photo.jpg)
-## About me
 
+## About me
+<img src="https://github.com/mlrice/mlrice.github.io/blob/main/assets/images/bio-photo.jpg" align="left" height="48" width="48" >
 
 
 
