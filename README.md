@@ -3,7 +3,7 @@
 ## About me
 ![Bio_photo](/assets/images/bio-photo.jpg)
 
-
+<img src="https://github.com/mlrice/mlrice.github.io/blob/main/assets/images/bio-photo.jpg">
 
 
 ## Projects
