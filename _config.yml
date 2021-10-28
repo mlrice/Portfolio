@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-title: (assets/images/bio-photo.jpg)[Michelle Rice]
+title: ![bio-photo](assets/images/bio-photo.jpg)\
+        [Michelle Rice]
