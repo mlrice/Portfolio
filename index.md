@@ -5,7 +5,9 @@
 ## About me
 
 
-<p style='text-align: right;'> Your Text </p>
+I am an experienced IT professional transitioning to a career in Data Science.  I have an undergraduate degree in Finance from The University of Iowa and a Masters Degree in Data Science from Bellevue University.
+
+
 
 ## Projects
 
