@@ -1,7 +1,7 @@
 # Michelle Rice
 
 ## About me
-<img src="https://github.com/mlrice/mlrice.github.io/blob/main/assets/images/bio-photo.jpg" align="left" height="48" width="48" >
+<a href="url"><img src="https://github.com/mlrice/mlrice.github.io/blob/main/assets/images/bio-photo.jpg" align="left" height="48" width="48" ></a>
 
 
 
