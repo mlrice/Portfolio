@@ -21,4 +21,4 @@ I am an experienced IT professional transitioning to a career in Data Science.  
 
 ## Contact Info
 [LinkedIn](https://www.linkedin.com/in/ricemichelle/)\
-[Email](<mrice915@hotmail.com>)
+[Email]<mrice915@hotmail.com>
