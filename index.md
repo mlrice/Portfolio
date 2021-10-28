@@ -1,5 +1,5 @@
 
-# Michelle Rice
+
 ![hello](assets/images/bio-photo.jpg){:height="25%" width="25%"}  
 
 ## About me
