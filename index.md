@@ -1,6 +1,6 @@
 
 
- # Michelle Rice
+# Michelle Rice
 
 ## About me
 
