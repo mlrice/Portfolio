@@ -10,7 +10,7 @@ I am an experienced IT professional transitioning to a career in Data Science.  
 
 
 ## Projects
-
+###[Airline Safety Visualization Project](https://github.com/mlrice/Data_Science_Projects/tree/main/Airline_Safety_Visualization_Project)
 
 
 
