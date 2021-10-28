@@ -20,3 +20,4 @@ I am an experienced IT professional transitioning to a career in Data Science.  
 
 
 ## Contact Info
+[linkedIn](https://www.linkedin.com/in/ricemichelle/)
