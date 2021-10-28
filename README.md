@@ -1,5 +1,5 @@
 # Michelle Rice
-![bio-photo](assets/images/bio-photo.jpg)
+![bio-photo](images/bio-photo.jpg)
 ## About me
 
 
