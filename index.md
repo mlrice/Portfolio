@@ -16,7 +16,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 ### [Airline Safety Visualization Project](https://github.com/mlrice/Data_Science_Projects/tree/main/Airline_Safety_Visualization_Project)
 ![airplane](assets/images/airplane.jpg){:height="25%" width="25%"} 
 
-This project was to use various visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media.  
+The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media. 
 
 
 
