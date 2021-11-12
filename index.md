@@ -18,11 +18,11 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 
 The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media. 
 
-[Employee Turnover](https://github.com/mlrice/Data_Science_Projects/tree/main/Employee Turnover)
+### [Employee Turnover](https://github.com/mlrice/Data_Science_Projects/tree/main/Employee Turnover)
+[Employee Turnover}(https://github.com/mlrice/Data_Science_Projects/tree/main/Employee Turnover/readme.md)
 
 
-### Test Project
-#test-project
+
 
 
 
