@@ -21,6 +21,8 @@ The purpose of this project was to use visualizaton tools to provide information
 ### [Employee Turnover](https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover/README.md)
 This project studies what variables are more likely linked to employee turnover.
 
+### Test
+[Click here to visit my about page!](https://github.com/mlrice/Data_Science_Projects/Employee_Turnover/README.md)
 
 
 
