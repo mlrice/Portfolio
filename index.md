@@ -1,7 +1,6 @@
 
 
-![hello](assets/images/bio-photo.jpg){:height="25%" width="25%"}  
-
+![hello](assets/images/bio-photo.jpg){: style="float: left; margin-right: 4em;"} 
 ## About me
 
 
