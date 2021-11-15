@@ -60,7 +60,7 @@ This project studies what variables are more likely linked to employee turnover.
 <html>
    <body>
       <p>
-         Test body
+         Test body</p>
    </body>
 </html>  
 
