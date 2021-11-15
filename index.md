@@ -18,11 +18,32 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 
 The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media. 
 
-### [Employee Turnover](https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover/README.md)
+### [Customer Segmentation](https://github.com/mlrice/Data_Science_Projects/blob/main/Customer_Segmentation)
 This project studies what variables are more likely linked to employee turnover.
 
-### Test
-[Click here to visit my about page!](https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover/index.md)
+### [Market Basket Analysis](https://github.com/mlrice/Data_Science_Projects/blob/main/Market_Basket_Analysis)
+This project studies what variables are more likely linked to employee turnover.x.md)
+
+### [Employee Turnover](https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover)
+This project studies what variables are more likely linked to employee turnover.x.md)
+
+### [Sleep Study](https://github.com/mlrice/Data_Science_Projects/blob/main/Sleep_Study)
+This project studies what variables are more likely linked to employee turnover.x.md)
+
+### [World Alcohol Consumption](https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption)
+This project studies what variables are more likely linked to employee turnover.x.md)
+
+### [Earnings Gap](https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap)
+This project studies what variables are more likely linked to employee turnover.x.md)
+
+### [Baseball Promotions](https://github.com/mlrice/Data_Science_Projects/blob/main/Baseball_Promotions)
+This project studies what variables are more likely linked to employee turnover.x.md)
+
+### [Weather App](https://github.com/mlrice/Data_Science_Projects/blob/main/Weather_App)
+This project studies what variables are more likely linked to employee turnover.x.md)
+
+### [Educational Attainment by Income Level](https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment)
+This project studies what variables are more likely linked to employee turnover.x.md)
 
 
 
