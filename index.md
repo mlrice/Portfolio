@@ -30,10 +30,10 @@ This project studies what variables are more likely linked to employee turnover.
 ### [Sleep Study](https://github.com/mlrice/Data_Science_Projects/blob/main/Sleep_Study)
 This project studies what variables are more likely linked to employee turnover.x.md)
 
-<img align="right" src="assets/images/drinks-1.jpeg">
 
+![drinks](assets/images/drinks-1.jpeg){: style="float: left; margin-right: 4em;"}
 ### [World Alcohol Consumption](https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption)
-<a href="url"><img src="https://github.com/mlrice/Portfolio/blob/main/assets/images/drinks-1.jpeg" align="left" height="48" width="48" ></a>
+
 This project studies consumption of alcohol around the world kjijiojojiojij
 ijiojiojoijo
 
