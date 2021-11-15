@@ -31,7 +31,9 @@ This project studies what variables are more likely linked to employee turnover.
 This project studies what variables are more likely linked to employee turnover.x.md)
 
 ### [World Alcohol Consumption](https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption)
- This project studies consumption of alcohol around the world kjkjjjkjkjlkjkjljljljljljjllljljljlllljkjk![drinks](assets/images/drinks-1.jpeg){:height="25%" width="25%"}  
+| - | - |
+|---|---|
+|This project studies consumption of alcohol around the world | [drinks](assets/images/drinks-1.jpeg){:height="25%" width="25%"}|
 
 ### [Earnings Gap](https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap)
 
