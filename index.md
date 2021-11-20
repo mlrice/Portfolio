@@ -21,14 +21,14 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
         The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media.  </p><br>
    </body>
    <body>
-      <h3><a href="https://github.com/mlrice/Data_Science_Projects/tree/main/Customer Segmentation">Customer Segmentationt</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/tree/main/Customer Segmentation">Customer Segmentation</a></h3>
    </body>
 </html>
-![Segmentation](assets/images/Segmentation.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+![Segmentation](assets/images/airpline.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
-        Project Description.  </p><br>
+        Project Description. </p><br>
    </body>
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Market_Basket_Analysis">Market Basket Analysis</a></h3>
