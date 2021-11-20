@@ -28,17 +28,18 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-         Project Text</p>
+         Project Text</p><b>
    </body>   
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Forecasting%20Workplace%20Absenteeism">Forecasting Workplace Absenteeism</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Market_Basket_Analysis![image](https://user-images.githubusercontent.com/36652677/142740336-36e46329-6f0c-4d17-b898-3bdfad899758.png)
+">Market Basket Analysis</a></h3>
    </body>
 </html>
 ![absence2](/docs/assets/images/absence2.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         This project leverages machine learning and predictive modeling to forecast how many hours an employee will be absent based on demographic information. In this project multiple models were evaluated on regression performance statistics. The best model was able to account for 4.3% of target variance. The result indicates that the demographic information provided is not sufficient to make accurate forecasts. However, analysis did identify features that might improve model performance.</p>
+          Project Text</p><b>
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Airline%20Safety%20Visualization%20Analysis">Airline Saftey Visualization Analysis</a></h3>
@@ -48,67 +49,73 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-         Project Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that could be used to tell the true story of airline safety to different audiences. Project deliverables include: a blog post, an infographic, an executive summary, and a final presentation for management.</p>
+          Project Text</p><b>
    </body>
    <body>
-      <h3><br><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Drug%20Review%20Sentiment%20Analysis">Drug Review Sentiment Analysis</a></h3>
+      <h3><br><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover![image](https://user-images.githubusercontent.com/36652677/142740349-94acb8e5-e32a-416d-9187-0ce58bf6b920.png)
+">Employee Turnover</a></h3>
    </body>
 </html>
 ![drugs](/docs/assets/images/drugs2.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         Sentiment analysis can assist companies in monitoring their brand and public opinion on their products. Machine learning can be utilized to gain insights on the sentiment of freestyle text, which makes it a perfect choice for pharmaceutical company’s trying to gauge how their product is being received on social media platforms. This project builds a neural network that is able to classify freestyle text reviews on drugs into the categories of positive, neutral, and negative with an accuracy score of 83.3%. </p>
+          Project Text</p><b>
    </body>  
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Exploratory%20Analysis%20of%20Colorado%20Air%20Quality%20Index">Exploratory Analsis of Colorado's Air Quality Index</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Sleep_Study![image](https://user-images.githubusercontent.com/36652677/142740356-d9821fc1-3447-43d8-9f68-172217c16469.png)
+">Sleep Study</a></h3>
    </body>
 </html>
 ![denverair](/docs/assets/images/denverair.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         As a nation, we continue to become more aware of environmental issues like pollution. The government imposes environmental standards to help mitigate pollution and there has been a huge movement in both the public and private sectors, towards clean energy sources like electric, solar, and wind power. But are we making an impact? This project uses exploratory data analysis techniques to prove that pollution levels in Colorado are decreasing over time.</p>
+          Project Text</p><b>
    </body>   
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Recidivism%20using%20Machine%20Learning">Predicting Recidivism using Machine Learning</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption![image](https://user-images.githubusercontent.com/36652677/142740366-ddb246e2-3b2f-4ea0-b029-b766c3f7bc30.png)
+">World Alcohol Consumption</a></h3>
    </body>
 </html>
 ![recidivism](/docs/assets/images/recidivism.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         Often times persons who were previously incarcerated commit additional criminal acts after being released from prison. Can these additional crimes be prevented? This project evaluates the performance of machine learning models to predict recidivism rates based off of demographic information. If able to determine who is likely to reoffend, that information could be used to make better decisions at parole release boards or on initial sentence lengths.</p>
+          Project Text</p><b>
    </body>   
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Statistical%20Analysis%20of%20IVF%20Success%20Rates">Statistical Analysis of IVF Success Rates</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap![image](https://user-images.githubusercontent.com/36652677/142740380-2440901d-cd02-4c49-9e88-b923ab00198b.png)
+">Earnings Gap</a></h3>
    </body>
 </html>
 ![ivf](/docs/assets/images/ivf.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         Many women have difficulty becoming pregnant and look to assisted reproductive procedures to help with conceiving a child. In vitro fertilization (IVF) is one of the procedures available. The IVF process is a very expensive. This project utilized R programming language to conduct statistical analysis on IVF success rates and factors to help an individual make decisions on whether in vitro fertilization is a good choice for them.</p>
+         Project Text</p><b>
    </body>
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Mobile%20Game%20Market%20Analysis">Mobile Game Market Analysis</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Baseball_Promotions![image](https://user-images.githubusercontent.com/36652677/142740404-a24ad94d-dc1a-4b8b-ba40-86991f7fe73d.png)
+">Baseball Promotions</a></h3>
    </body>
 </html>
 ![mobilegames](/docs/assets/images/mobilegames.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         This project provides analysis on Google's mobile game market. The main focus of this project was to gather data from different data sources; a csv file, tabular data scraped from a website, and retrieving data using an API. All three data sources were then combined and inserted into a database. Then the data was used to conduct analysis and provide statistics surrounding Google game reviews, ratings, and revenue.</p>
+          Project Text</p><b>
    </body>  
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Denver%20County%20Traffic%20Analysis">Denver County Traffic Analysis</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Weather_App![image](https://user-images.githubusercontent.com/36652677/142740417-88754061-ad4c-4f43-b04b-3709677f6fd6.png)
+">Weather Application in Python</a></h3>
    </body>
 </html>
 ![traffic](/docs/assets/images/traffic.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         Scenario: The Denver Police Department would like to improve public traffic safety. Conduct exploratory data analysis on Denver city and county traffic accidents data and identify any possible patterns, trends, or any other information that might be helpful to achieving this goal.<br><br><br><br></p>
+          Project Text<br><br><br><br></p>
    </body>
 </html>
 
