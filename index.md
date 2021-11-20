@@ -38,7 +38,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><br>
+          Project Text. </p><br>
    </body>   
    <body>
       <h3><br><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover">Employee Turnover</a></h3>
@@ -68,7 +68,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><br>
+          Project Text. </p><br>
    </body>   
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap">Earnings Gap</a></h3>
@@ -110,11 +110,10 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <p>
          Project Text.<br><br><br><br></p>
    </body>
-
 </html>
 
 
 
 ## Contact Info
-[LinkedIn](https://www.linkedin.com/in/ricemichelle/)\
+[LinkedIn](https://www.linkedin.com/in/ricemichelle/)
 <mrice915@hotmail.com>
