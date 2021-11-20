@@ -63,7 +63,7 @@ This project studies what variables are more likely linked to employee turnover.
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/tree/main/Airline_Safety_Visualization_Project">Airline Safety Visualization Project</a></h3>
    </body>
 </html>
-![divorce](assets/images/airplane.jpg){: style="float: left; margin-left: 1em; width: 300px; height: 200px;"}
+![airpline](assets/images/airplane.jpg){: style="float: left; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
