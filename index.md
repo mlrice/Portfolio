@@ -66,7 +66,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Divorce%20with%20Logistic%20Regression">Predicting Divorce with Logistic Regression</a></h3>
    </body>
 </html>
-![divorce](assets/images/airplane.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+![divorce](/assets/images/airplane.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
