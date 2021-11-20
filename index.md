@@ -1,5 +1,5 @@
 
-![hello](assets/images/bio-photo.jpg){height="25%" width="25%"}
+![hello](assets/images/bio-photo.jpg){: style="float: left; margin-left: 1em; width: 300px; height: 200px;"}
 ## About me
 
 I am an experienced IT professional transitioning to a career in Data Science.  I have an undergraduate degree in Finance from The University of Iowa and a Masters Degree in Data Science from Bellevue University.
@@ -57,16 +57,13 @@ This project studies what variables are more likely linked to employee turnover.
 
 ## Projects
 
-![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928-slice.jpg)
-
-Here are a some of my favorite projects I completed during my Data Science Master's program. If you see one that piques your interest, you can view the project deliverables and code by clicking the project name.
 
 <html>
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Divorce%20with%20Logistic%20Regression">Predicting Divorce with Logistic Regression</a></h3>
    </body>
 </html>
-![divorce](/assets/images/airplane.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+![divorce](assets/images/airplane.jpg){: style="float: left; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
