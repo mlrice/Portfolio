@@ -41,16 +41,6 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
           Project Text</p><br>
    </body>   
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Airline%20Safety%20Visualization%20Analysis">Airline Saftey Visualization Analysis</a></h3>
-   </body>
-</html>
-![airline](/docs/assets/images/airline.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
-<html>
-   <body>
-      <p>
-          Project Text</p><br>
-   </body>
-   <body>
       <h3><br><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover">Employee Turnover</a></h3>
    </body>
 </html>
@@ -109,6 +99,16 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
    <body>
       <p>
           Project Text<br><br><br><br></p>
+   </body>
+   <boyd>
+       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment Relationship to Income</a></h3>
+   </body>
+</html>
+![airline](/docs/assets/images/airline.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+<html>
+   <body>
+      <p>
+          Project Text</p><br>
    </body>
 </html>
 
