@@ -38,7 +38,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><b>
+          Project Text</p><br>
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Airline%20Safety%20Visualization%20Analysis">Airline Saftey Visualization Analysis</a></h3>
