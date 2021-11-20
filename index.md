@@ -1,5 +1,5 @@
 
-![hello](assets/images/bio-photo.jpg){: style="float: left; margin-right: 4em;"}
+![hello](assets/images/bio-photo.jpg){height="25%" width="25%"}
 ## About me
 
 I am an experienced IT professional transitioning to a career in Data Science.  I have an undergraduate degree in Finance from The University of Iowa and a Masters Degree in Data Science from Bellevue University.
