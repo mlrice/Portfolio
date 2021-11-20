@@ -100,16 +100,17 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <p>
           Project Text</p><br>
    </body>
-   <boyd>
-       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment Relationship to Income</a></h3>
+   <body>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment</a></h3>
    </body>
 </html>
-![airline](/docs/assets/images/airline.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+![traffic](/docs/assets/images/traffic.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-          Project Text<br><br><br><br></p>
+         Project Text.<br><br><br><br></p>
    </body>
+
 </html>
 
 
