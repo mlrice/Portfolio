@@ -62,11 +62,11 @@ This project studies what variables are more likely linked to employee turnover.
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/tree/main/Airline_Safety_Visualization_Project">Airline Safety Visualization Project</a></h3>
    </body>
 </html>
-![airpline](assets/images/airplane.jpg){: style="float: left; margin-left: 1em; width: 300px; height: 200px;"}
+![airpline](assets/images/airplane.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
-        The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media.  </p>
+        The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media.  </p><br>
    </body>
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/ASL%20Image%20Classification">ASL Image Classification</a></h3>
