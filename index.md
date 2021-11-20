@@ -28,7 +28,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-         Project Text</p><b>
+         Project Text </p><br>
    </body>   
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Market_Basket_Analysis">Market Basket Analysis</a></h3>
@@ -48,7 +48,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><b>
+          Project Text</p><br>
    </body>
    <body>
       <h3><br><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover">Employee Turnover</a></h3>
@@ -58,7 +58,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><b>
+          Project Text</p><br>
    </body>  
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Sleep_Study">Sleep Study</a></h3>
@@ -68,7 +68,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><b>
+          Project Text</p><br>
    </body>   
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption">World Alcohol Consumption</a></h3>
@@ -78,7 +78,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><b>
+          Project Text</p><br>
    </body>   
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap">Earnings Gap</a></h3>
@@ -88,7 +88,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-         Project Text</p><b>
+         Project Text</p><br>
    </body>
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Baseball_Promotions">Baseball Promotions</a></h3>
@@ -98,7 +98,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><b>
+          Project Text</p><br>
    </body>  
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Weather_App">Weather Application in Python</a></h3>
