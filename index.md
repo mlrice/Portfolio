@@ -6,54 +6,6 @@ I am an experienced IT professional transitioning to a career in Data Science.  
 Throughout my career, I have worked in various IT roles, primarily in Quality Assurance, but also in Business Analysis and Development.  In my current role as a Quality Assurance Analyst, I validate that our accounting and reporting applications are functioning as expected and returning accurate results. This involves a lot of database querying and updating test data as well as a great deal of API testing.  This has encouraged my passion for data and my desire to work more in depth with the data, analyze it and extract knowledge and insights from it.
 
 
-
-
-## Projects
-### [Airline Safety Visualization Project](https://github.com/mlrice/Data_Science_Projects/tree/main/Airline_Safety_Visualization_Project)
-![airplane](assets/images/airplane.jpg){:height="25%" width="25%"} 
-
-The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media. 
-
-### [Customer Segmentation](https://github.com/mlrice/Data_Science_Projects/blob/main/Customer_Segmentation)
-This project studies what variables are more likely linked to employee turnover.
-
-### [Market Basket Analysis](https://github.com/mlrice/Data_Science_Projects/blob/main/Market_Basket_Analysis)
-This project studies what variables are more likely linked to employee turnover.x.md)
-
-### [Employee Turnover](https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover)
-This project studies what variables are more likely linked to employee turnover.x.md)
-
-### [Sleep Study](https://github.com/mlrice/Data_Science_Projects/blob/main/Sleep_Study)
-This project studies what variables are more likely linked to employee turnover.x.md)
-
-
-## [World Alcohol Consumption](https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption)
-![drinks](assets/images/drinks-1.jpeg){:height="25%" width="25%"} 
-
-This project studies consumption of alcohol around the world kjijiojojiojij
-ijiojiojoijo
-
-
-
-### [Earnings Gap](https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap)
-
-
-### [Baseball Promotions](https://github.com/mlrice/Data_Science_Projects/blob/main/Baseball_Promotions)
-This project studies what variables are more likely linked to employee turnover.x.md)
-
-### [Weather App](https://github.com/mlrice/Data_Science_Projects/blob/main/Weather_App)
-This project studies what variables are more likely linked to employee turnover.x.md)
-
-### [Educational Attainment by Income Level](https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment)
-This project studies what variables are more likely linked to employee turnover.x.md)
-
-
-<html>
-   <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/blob/gh-pages/docs/Resume2.pdf">View Full Resume</a></h3>
-   </body>
-</html>
-
 ## Projects
 
 
@@ -69,14 +21,14 @@ This project studies what variables are more likely linked to employee turnover.
         The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media.  </p><br>
    </body>
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/ASL%20Image%20Classification">ASL Image Classification</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Customer_Segment![image](https://user-images.githubusercontent.com/36652677/142740191-2346e372-0bb6-4f55-8060-979084c8c60b.png)">Customer Segmentation</a></h3>
    </body>
 </html>
 ![asl](assets/images/airplane.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         This project utilizes machine learning techniques to test computer vision capabilities on hand pose images. Using Keras and Tensorflow to create a convolutional neural network to predict the letter value from these images. The model achievied an accuracy score of 92.1%. This significant accomplishment proves there is potential for incorporating machine learning models to provide real-time interpretation of sign language.</p>
+         Project Text</p>
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Forecasting%20Workplace%20Absenteeism">Forecasting Workplace Absenteeism</a></h3>
