@@ -98,7 +98,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text<br><br><br><br></p>
+          Project Text</p><br>
    </body>
    <boyd>
        <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment Relationship to Income</a></h3>
@@ -108,7 +108,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><br>
+          Project Text<br><br><br><br></p>
    </body>
 </html>
 
