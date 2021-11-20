@@ -24,7 +24,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Customer_Segmentation">Customer Segmentation</a></h3>
    </body>
 </html>
-![asl](assets/images/airplane.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+![asl](assets/images/airplane.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -34,7 +34,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Market_Basket_Analysis">Market Basket Analysis</a></h3>
    </body>
 </html>
-![absence2](/docs/assets/images/absence2.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+![absence2](/docs/assets/images/absence2.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -44,7 +44,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Airline%20Safety%20Visualization%20Analysis">Airline Saftey Visualization Analysis</a></h3>
    </body>
 </html>
-![airline](/docs/assets/images/airline.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+![airline](/docs/assets/images/airline.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -54,7 +54,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><br><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover">Employee Turnover</a></h3>
    </body>
 </html>
-![drugs](/docs/assets/images/drugs2.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+![drugs](/docs/assets/images/drugs2.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -64,7 +64,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Sleep_Study">Sleep Study</a></h3>
    </body>
 </html>
-![denverair](/docs/assets/images/denverair.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+![denverair](/docs/assets/images/denverair.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -74,7 +74,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption">World Alcohol Consumption</a></h3>
    </body>
 </html>
-![recidivism](/docs/assets/images/recidivism.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+![recidivism](/docs/assets/images/recidivism.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -84,7 +84,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap">Earnings Gap</a></h3>
    </body>
 </html>
-![ivf](/docs/assets/images/ivf.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+![ivf](/docs/assets/images/ivf.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -94,7 +94,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Baseball_Promotions">Baseball Promotions</a></h3>
    </body>
 </html>
-![mobilegames](/docs/assets/images/mobilegames.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+![mobilegames](/docs/assets/images/mobilegames.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -104,7 +104,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Weather_App">Weather Application in Python</a></h3>
    </body>
 </html>
-![traffic](/docs/assets/images/traffic.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+![traffic](/docs/assets/images/traffic.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
