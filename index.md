@@ -60,14 +60,14 @@ This project studies what variables are more likely linked to employee turnover.
 
 <html>
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Divorce%20with%20Logistic%20Regression">Predicting Divorce with Logistic Regression</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/tree/main/Airline_Safety_Visualization_Project">Airline Safety Visualization Project</a></h3>
    </body>
 </html>
 ![divorce](assets/images/airplane.jpg){: style="float: left; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
-         If you have read the book Blink by Malcolm Gladwell, then you might be familiar with Dr. John Gottman who is renowned in the field of psychology for being able to predict couples that will divorce with an accuracy rate of ~94%. But can machine beat man at this prediction game? This project uses data science and logistic regression to analyze survey data and make predictions on which couples will get divorced with a final accuracy score of 98%! </p>
+        The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media.  </p>
    </body>
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/ASL%20Image%20Classification">ASL Image Classification</a></h3>
