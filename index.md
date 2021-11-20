@@ -1,4 +1,4 @@
-![Hi! I'm Myra](/docs/assets/images/pages_headshot2.jpg){: style="float: left; margin-right: 4em;"}
+![Bio](assets/images/bio-photo.jpg){: style="float: left; margin-right: 4em;"}
 ## About me
 
 I am an experienced IT professional transitioning to a career in Data Science.  I have an undergraduate degree in Finance from The University of Iowa and a Masters Degree in Data Science from Bellevue University.
