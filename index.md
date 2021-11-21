@@ -18,7 +18,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-        The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media.  </p><br>
+        The purpose of this project was to use visualizaton tools to provide information to various audiences regarding the safety of air travel after some incidents had generated negative information from the media.  </p><br>  
    </body>
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/tree/main/Customer Segmentation">Customer Segmentation</a></h3>
@@ -98,7 +98,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          This project is a basic weahter application in Python that allows the user to input a location, by entering either a city or a zip code and get the current weather conditions. </p><br>
+          This project is a basic weahter application in Python that allows the user to input a location, by entering either a city or a zip code and get the current weather conditions. </p><br> 
    </body>
    <body> 
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment</a></h3>
