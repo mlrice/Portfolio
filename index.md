@@ -38,8 +38,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Accurately predicting sales and inventory is especially important for grocery stores since they are dealing with perishable items.  Additionally, not placing or pricing items appropriately could cause lost sales. This project addresses how we can determine what products are frequently purchased together so that we can market them together, plan the most beneficial store placement of products and plan pricing in order to encourage customers to purchase additional products. 
- </p><br>
+          Accurately predicting sales and inventory is especially important for grocery stores since they are dealing with perishable items.  Additionally, not placing or pricing items appropriately could cause lost sales. This project addresses how we can determine what products are frequently purchased together so that we can market them together, plan the most beneficial store placement of products and plan pricing in order to encourage customers to purchase additional products. </p><br>
    </body>   
    <body>
       <h3><br><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover">Employee Turnover</a></h3>
@@ -101,7 +100,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <p>
           This project is a basic weahter application in Python that allows the user to input a location, by entering either a city or a zip code and get the current weather conditions. </p><br>
    </body>
-   <body>
+   <body> 
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment</a></h3>
    </body>
 </html>
