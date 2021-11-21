@@ -24,11 +24,11 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/tree/main/Customer Segmentation">Customer Segmentation</a></h3>
    </body>
 </html>
-![airpline](assets/images/airplane.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+![Segmentation](assets/images/Segmentation.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
-        Project Description.lklkk;kk;kll;klkl;k;rrrkljkjljsjfsdjfdlskfl;sfkldskfsd;lkfsal;fkadl;fkdls;fkdl;kfl;dkfl;dskfal;kfl;adkfa;ldkfal;skls;dkf;lk;kl;kl;k;lk;k</p><br>
+        An essential part of retail success is understanding the customer.  Not only knowing what their demographic details are, but what their specific shopping habits are and how to capitalize on that. Customer segmentation allows us to put similar customers into groups and market to them based on their characteristics in order to maximize the value of each customer.  This project uses a dataset from Instacart and analyzes customer purchases over time to determine how recently they have shopped, how frequently they shop and how much they buy and then places the customer into segments. </p><br>
    </body>
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Market_Basket_Analysis">Market Basket Analysis</a></h3>
@@ -44,7 +44,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><br><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover">Employee Turnover</a></h3>
    </body>
 </html>
-![drugs](/docs/assets/images/drugs2.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+![turnover](assets/images/turnover.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -54,7 +54,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Sleep_Study">Sleep Study</a></h3>
    </body>
 </html>
-![denverair](/docs/assets/images/denverair.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+![sleep](/docs/assets/images/sleep.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -74,7 +74,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap">Earnings Gap</a></h3>
    </body>
 </html>
-![ivf](/docs/assets/images/ivf.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+![earnings](/docs/assets/images/earnings.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -84,7 +84,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Baseball_Promotions">Baseball Promotions</a></h3>
    </body>
 </html>
-![mobilegames](/docs/assets/images/mobilegames.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+![baseball](/docs/assets/images/baseball.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -94,7 +94,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Weather_App">Weather Application in Python</a></h3>
    </body>
 </html>
-![traffic](/docs/assets/images/traffic.jpg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
+![weather](/docs/assets/images/weather.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
@@ -104,7 +104,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment</a></h3>
    </body>
 </html>
-![traffic](/docs/assets/images/traffic.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+![education](/docs/assets/images/education.jpeg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
