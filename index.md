@@ -38,7 +38,8 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text. </p><br>
+          Accurately predicting sales and inventory is especially important for grocery stores since they are dealing with perishable items.  Additionally, not placing or pricing items appropriately could cause lost sales. This project addresses how we can determine what products are frequently purchased together so that we can market them together, plan the most beneficial store placement of products and plan pricing in order to encourage customers to purchase additional products. 
+ </p><br>
    </body>   
    <body>
       <h3><br><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Employee_Turnover">Employee Turnover</a></h3>
@@ -48,7 +49,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><br>
+          Employee turnover is very costly to an organization. In order to reduce the amount of turnover, we must understand why employees are leaving.  This project looks at employee turnover and attempts to identify variables that contribute most to employees making the decision to leave their job.</p><br>
    </body>  
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Sleep_Study">Sleep Study</a></h3>
@@ -58,7 +59,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><br>
+          A common response when asking someone how they are, is "tired."  Are we not getting enough sleep?  Are there other factors that make us feel more or less tired, like whether we ate breakfast that day or had screen time right before bed?  This is a study of how much sleep is considered enough for people to not feel tired and what other factors might contribute to how tired they rate themselves. </p><br>
    </body>   
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption">World Alcohol Consumption</a></h3>
@@ -68,7 +69,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text. </p><br>
+          This study uses a Kaggle dataset of alcohol consumption around the world and compares the amount consumed in various regions and countries.  It also considers what types of alcohol are consumed more in various areas and analyzes whethere there is a link between happiness scores and alcohol consumption. </p><br>
    </body>   
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Earnings_Gap">Earnings Gap</a></h3>
@@ -78,17 +79,17 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-         Project Text</p><br>
+         While the disparity in earnings for men and women has been reduced, it does still exist. In this project, I look at the gap in income for men and women and how it has changed and whether ethnicity plays a part in that gap as well.</p><br>
    </body>
    <body>
-      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Baseball_Promotions">Baseball Promotions</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Baseball_Promotions">Baseball Game Promotions</a></h3>
    </body>
 </html>
 ![baseball](/docs/assets/images/baseball.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
 <html>
    <body>
       <p>
-          Project Text</p><br>
+          Professional baseball teams play a lot of games and in order to keep people coming, teams often use special promotions such as giveaways or events like fireworks.  This project looks at a dataset from a Dodgers season to determine what factors contributed to higher attendance and then make a recommendation for which promotions should be used on which days.  </p><br>
    </body>  
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Weather_App">Weather Application in Python</a></h3>
@@ -98,7 +99,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          Project Text</p><br>
+          This project is a basic weahter application in Python that allows the user to input a location, by entering either a city or a zip code and get the current weather conditions. </p><br>
    </body>
    <body>
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment</a></h3>
@@ -108,7 +109,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-         Project Text.<br><br><br><br></p>
+         Does income influence educational attainment?  In this project, I look at data provided by the USDA and determine whether educational attainment can be predicted based on income.  <br><br><br><br></p>
    </body>
 </html>
 
