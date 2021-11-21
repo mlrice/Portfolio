@@ -61,7 +61,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
           A common response when asking someone how they are, is "tired."  Are we not getting enough sleep?  Are there other factors that make us feel more or less tired, like whether we ate breakfast that day or had screen time right before bed?  This is a study of how much sleep is considered enough for people to not feel tired and what other factors might contribute to how tired they rate themselves. </p><br>
    </body>   
    <body>
-      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Alcohol_Consumption">World Alcohol Consumption</a></h3>
+      <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/World_Alcohol_Consumption">World Alcohol Consumption</a></h3>
    </body>
 </html>
 ![drinks](/assets/images/drinks-1.jpeg){: style="float: left; padding: 10px; :height="25%" width="25%;"}
@@ -98,7 +98,7 @@ Throughout my career, I have worked in various IT roles, primarily in Quality As
 <html>
    <body>
       <p>
-          This project is a basic weahter application in Python that allows the user to input a location, by entering either a city or a zip code and get the current weather conditions. </p><br> 
+          This project is a basic weahter application in Python that allows the user to input a location, by entering either a city or a zip code and get the current weather conditions. </p><br><br>
    </body>
    <body> 
       <h3><a href="https://github.com/mlrice/Data_Science_Projects/blob/main/Educational_Attainment">Educational Attainment</a></h3>
